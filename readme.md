@@ -131,6 +131,8 @@ cd build
 cmake ..
 make
 valgrind --leak-check=full ./app/shell-app > ../results/results.txt 2>&
-
+```
 ## Kcachegrind command
+```
 sudo kcachegrind
+```
