@@ -130,7 +130,7 @@ perspetive view (or Windows->Perspective->Open Perspective->C/C++).
 cd build
 cmake ..
 make
-valgrind --leak-check=full ./app/shell-app > ../results/results.txt 2>&
+valgrind --leak-check=full ./app/shell-app > ../results/results.txt 2>&1
 ```
 ## Kcachegrind command
 ```
