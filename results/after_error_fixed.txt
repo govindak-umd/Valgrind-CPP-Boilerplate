@@ -1,15 +1,15 @@
-==3876== Memcheck, a memory error detector
-==3876== Copyright (C) 2002-2017, and GNU GPL'd, by Julian Seward et al.
-==3876== Using Valgrind-3.13.0 and LibVEX; rerun with -h for copyright info
-==3876== Command: ./app/shell-app
-==3876== 
+==2453== Memcheck, a memory error detector
+==2453== Copyright (C) 2002-2017, and GNU GPL'd, by Julian Seward et al.
+==2453== Using Valgrind-3.13.0 and LibVEX; rerun with -h for copyright info
+==2453== Command: ./app/shell-app
+==2453== 
 Averaged sensor reading: 10
-==3876== 
-==3876== HEAP SUMMARY:
-==3876==     in use at exit: 0 bytes in 0 blocks
-==3876==   total heap usage: 4 allocs, 4 frees, 76,844 bytes allocated
-==3876== 
-==3876== All heap blocks were freed -- no leaks are possible
-==3876== 
-==3876== For counts of detected and suppressed errors, rerun with: -v
-==3876== ERROR SUMMARY: 0 errors from 0 contexts (suppressed: 0 from 0)
+==2453== 
+==2453== HEAP SUMMARY:
+==2453==     in use at exit: 0 bytes in 0 blocks
+==2453==   total heap usage: 4 allocs, 4 frees, 76,844 bytes allocated
+==2453== 
+==2453== All heap blocks were freed -- no leaks are possible
+==2453== 
+==2453== For counts of detected and suppressed errors, rerun with: -v
+==2453== ERROR SUMMARY: 0 errors from 0 contexts (suppressed: 0 from 0)
